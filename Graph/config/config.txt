@@ -1,0 +1,16 @@
+# startdate : the date of start for statistic
+# url : the ip and port for the ES server to be read
+# user : the username of the ES server
+# pw : the password of the username
+#
+startdate = 20180702
+enddate = 20180702
+url = http://10.10.7.69:30001/
+size = 500
+user = admin
+pw = admin
+indextype_sip = a_sip_jg_liuliang
+indextype_dip = a_dip_jg_liuliang
+indextype_url = a_url_jg_liuliang
+predictdate = 20180701
+K = 3
